@@ -1,0 +1,4 @@
+Stock Recommendation Report
+===========================
+Stock: RELIANCE, Price: 150.00
+Stock: HDFCBANK, Price: 2800.00
